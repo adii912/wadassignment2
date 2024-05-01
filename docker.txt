@@ -1,0 +1,4 @@
+mkdir demo 
+cd demo 
+sudo docker build -t demo 
+sudo docker run demo 

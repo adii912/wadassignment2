@@ -1,0 +1,31 @@
+to download = sudo apt install git 
+
+cd into the folder you want to add 
+
+create new repository in git hub 
+ 
+git init 
+
+ git status
+
+ git add . 
+
+git commit -m ""
+
+git remote add origin "link form github"
+
+git push origin master 
+
+
+from linux 
+1. mkdir workspace 
+2. cd workspace
+3. git clone (copy the link ) 
+4. then ls 
+5. cd name of repository 
+6.go to the file directly= git add . 
+7. git status 
+8. git commit -m "" 
+9. git push origin main 
+10.if not happed then token = git remote set url origin 
+11. git push origin main 
